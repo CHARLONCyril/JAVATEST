@@ -1,3 +1,3 @@
 = JAVATEST
 
-image:https://travis-ci.com/CHARLONCyril/JAVATEST2.svg?branch=master["Build Status", link="https://travis-ci.com/CHARLONCyril/JAVATEST2"]
+image:https://travis-ci.com/CHARLONCyril/JAVATEST.svg?branch=master["Build Status", link="https://travis-ci.com/CHARLONCyril/JAVATEST"]
